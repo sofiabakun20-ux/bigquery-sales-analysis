@@ -1,4 +1,3 @@
-# bigquery-sales-analysis
 # BigQuery Sales Analysis
 
 ## Project Overview
